@@ -8,3 +8,5 @@
 Pasion4Fasion/Pasion4Fasion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+CEO via Fasionkilla making  a option on mobile, web, and other emerging platforms.
